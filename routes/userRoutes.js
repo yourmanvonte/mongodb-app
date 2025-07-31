@@ -6,5 +6,3 @@ router.post("/", createUser);
 router.get("/", getUsers);
 
 module.exports = router;
-
-// test
